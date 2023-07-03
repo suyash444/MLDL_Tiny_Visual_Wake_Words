@@ -77,4 +77,4 @@ python run_train.py \
   --weight_decay 0.000001
 ```
 
-# MLDL_Tiny_Visual_Wake_Words
+
